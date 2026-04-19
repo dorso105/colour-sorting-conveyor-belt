@@ -1,4 +1,10 @@
 # colour-sorting-conveyor-belt
+this is a conveyor belt that uses colour items pending for where it will go.
+I made this so i can sort out my filament poop in colour so i can grind it down to melt it using custom moulds.
+
+
+
+
 If the code does not work please try using the following.
 
 
